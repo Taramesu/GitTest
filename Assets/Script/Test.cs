@@ -8,6 +8,8 @@ public class Test : MonoBehaviour
     public int test1;
     public float test2;
 
+    public string test3;
+
     // Start is called before the first frame update
     void Start()
     {
